@@ -1,0 +1,18 @@
+app:
+  name: simple-flask-app
+  version: 0.1.0
+  mode: development
+network:
+  host: 127.0.0.1
+  port: 5000
+database:
+  host: localhost
+  port: 5432
+  name: simpledb
+  user: simpleuser
+logging:
+  level: INFO
+  file: ./logs/app.log
+features:
+  new_ui: true
+  beta_api: false
