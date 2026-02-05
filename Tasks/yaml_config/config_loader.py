@@ -2,7 +2,7 @@ import os
 import yaml
 from pathlib import Path
 from typing import Any, Dict
-from models import Config
+from Tasks.yaml_config.models import Config
 from pydantic import ValidationError
 
 CONFIG_PATH = os.getenv("CONFIG_PATH", "config.yaml")
