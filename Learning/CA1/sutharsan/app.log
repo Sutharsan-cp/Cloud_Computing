@@ -1288,3 +1288,9 @@
 2026-02-13 12:59:04,832 - INFO -127.0.0.1 - - [13/Feb/2026 12:59:04] "GET /bill HTTP/1.1" 200 -
 2026-02-13 13:28:06,367 - INFO - * Detected change in 'D:\\sutharsan\\sem6\\cloud computing\\cc\\Learning\\CA1\\sutharsan\\inventory.py', reloading
 2026-02-13 13:28:07,493 - INFO - * Restarting with watchdog (windowsapi)
+2026-02-13 13:28:10,252 - WARNING - * Debugger is active!
+2026-02-13 13:28:10,261 - INFO - * Debugger PIN: 144-023-052
+2026-02-16 00:29:05,885 - INFO - * Detected change in 'D:\\sutharsan\\sem6\\cloud computing\\cc\\Learning\\CA1\\sutharsan\\app.py', reloading
+2026-02-16 00:29:05,891 - INFO - * Detected change in 'D:\\sutharsan\\sem6\\cloud computing\\cc\\Learning\\CA1\\sutharsan\\bill.py', reloading
+2026-02-16 00:29:05,896 - INFO - * Detected change in 'D:\\sutharsan\\sem6\\cloud computing\\cc\\Learning\\CA1\\sutharsan\\curr.py', reloading
+2026-02-16 00:29:05,902 - INFO - * Detected change in 'D:\\sutharsan\\sem6\\cloud computing\\cc\\Learning\\CA1\\sutharsan\\inventory.py', reloading
