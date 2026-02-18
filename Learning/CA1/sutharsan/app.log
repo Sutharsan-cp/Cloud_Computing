@@ -1294,3 +1294,6 @@
 2026-02-16 00:29:05,891 - INFO - * Detected change in 'D:\\sutharsan\\sem6\\cloud computing\\cc\\Learning\\CA1\\sutharsan\\bill.py', reloading
 2026-02-16 00:29:05,896 - INFO - * Detected change in 'D:\\sutharsan\\sem6\\cloud computing\\cc\\Learning\\CA1\\sutharsan\\curr.py', reloading
 2026-02-16 00:29:05,902 - INFO - * Detected change in 'D:\\sutharsan\\sem6\\cloud computing\\cc\\Learning\\CA1\\sutharsan\\inventory.py', reloading
+2026-02-16 00:29:07,224 - INFO - * Restarting with watchdog (windowsapi)
+2026-02-16 00:29:11,544 - WARNING - * Debugger is active!
+2026-02-16 00:29:11,558 - INFO - * Debugger PIN: 144-023-052
